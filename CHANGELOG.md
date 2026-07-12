@@ -12,3 +12,17 @@
 
 \- Day 4: Set up project structure, virtual environment, requirements.txt, .gitignore, GitHub Actions CI, CHANGELOG
 
+
+
+\## Week 2
+
+\- Day 1: Engineered time-window, velocity, and amount features
+
+\- Day 2: Handled class imbalance via class weighting (scale\_pos\_weight)
+
+\- Day 3: Trained XGBoost model with stratified train/test split
+
+\- Day 4: Evaluated model (Precision 0.854, Recall 0.837, PR-AUC 0.868); tested threshold tuning, kept default
+
+\- Day 5: Added SHAP explainability; documented false-positive vs correct-catch comparison
+
